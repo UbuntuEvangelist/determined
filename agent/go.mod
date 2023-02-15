@@ -25,7 +25,6 @@ require (
 )
 
 require (
-	github.com/determined-ai/determined/proto v0.0.0-00010101000000-000000000000
 	github.com/stretchr/testify v1.7.1
 	go.opentelemetry.io/contrib/instrumentation/github.com/labstack/echo/otelecho v0.29.0
 	golang.org/x/exp v0.0.0-20220328175248-053ad81199eb
@@ -106,9 +105,9 @@ require (
 	github.com/opencontainers/image-spec v1.0.2 // indirect
 	github.com/opentracing/opentracing-go v1.2.0 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
-	github.com/prometheus/client_golang v1.10.0 // indirect
+	github.com/prometheus/client_golang v1.11.1 // indirect
 	github.com/prometheus/client_model v0.2.0 // indirect
-	github.com/prometheus/common v0.25.0 // indirect
+	github.com/prometheus/common v0.26.0 // indirect
 	github.com/prometheus/procfs v0.6.0 // indirect
 	github.com/santhosh-tekuri/jsonschema/v2 v2.2.0 // indirect
 	github.com/segmentio/backo-go v0.0.0-20200129164019-23eae7c10bd3 // indirect
